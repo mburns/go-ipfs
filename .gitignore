@@ -21,6 +21,8 @@ bin/tmp
 bin/gocovmerge
 bin/cover
 
+manifest-tool
+manifest-tool-*
 
 vendor
 .tarball
